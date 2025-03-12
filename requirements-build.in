@@ -1,3 +1,4 @@
+setuptools_scm
 setuptools-rust>=1.4.0
 maturin>=1,<2
 flit_core<4,>=3.2.0
