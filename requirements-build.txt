@@ -39,6 +39,10 @@ setuptools-scm==8.2.0 \
     --hash=sha256:136e2b1d393d709d2bcf26f275b8dec06c48b811154167b0fd6bb002aad17d6d \
     --hash=sha256:a18396a1bc0219c974d1a74612b11f9dce0d5bd8b1dc55c65f6ac7fd609e8c28
     # via -r requirements-build.in
+typing-extensions==4.12.2 \
+    --hash=sha256:04e5ca0351e0f3f85c6853954072df659d0d13fac324d0072316b67d7794700d \
+    --hash=sha256:1a7ead55c7e559dd4dee8856e3a88b41225abfe1ce8df57b7c13915fe121ffb8
+    # via -r requirements-build.in
 wheel==0.38.4 \
     --hash=sha256:965f5259b566725405b05e7cf774052044b1ed30119b5d586b2703aafe8719ac \
     --hash=sha256:b60533f3f5d530e971d6737ca6d58681ee434818fab630c83a734bb10c083ce8
