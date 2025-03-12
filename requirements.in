@@ -1,2 +1,2 @@
-tomli
+tomli<=2.0.2
 cryptography==44.0.2
