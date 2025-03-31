@@ -1,0 +1,8 @@
+typing-extensions
+setuptools_scm
+setuptools-rust>=1.4.0
+maturin>=1,<2
+flit_core<4,>=3.2.0
+setuptools>=40.8.0
+wheel
+importlib-metadata<3.4.0
