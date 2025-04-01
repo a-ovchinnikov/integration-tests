@@ -1,0 +1,1177 @@
+---
+lockfileVersion: 1
+lockfileVendor: redhat
+arches:
+- arch: x86_64
+  packages:
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/a/alternatives-1.26-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 40819
+    checksum: sha256:7e635d208b2d3191973fbce9b2ee0a470204fa121270d9aa297ed5c3546f520b
+    name: alternatives
+    evr: 1.26-3.fc40
+    sourcerpm: chkconfig-1.26-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/a/audit-libs-4.0.1-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 128309
+    checksum: sha256:5b6386ac345c3fd388c509df4ad31ffe04f1a1ed6eb4f10d2b5f56c2a5b300dc
+    name: audit-libs
+    evr: 4.0.1-1.fc40
+    sourcerpm: audit-4.0.1-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/a/authselect-1.5.0-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 149683
+    checksum: sha256:0fe4ed8770711ede2fcec43c4545b62461a24f03b3aa836d0e7071f4436e26f1
+    name: authselect
+    evr: 1.5.0-5.fc40
+    sourcerpm: authselect-1.5.0-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/a/authselect-libs-1.5.0-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 223875
+    checksum: sha256:db7d946583f2a91a3301d964a5adc7afb1620e0f72c9a9033ae3a4cfc2f332ad
+    name: authselect-libs
+    evr: 1.5.0-5.fc40
+    sourcerpm: authselect-1.5.0-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/b/basesystem-11-20.fc40.noarch.rpm
+    repoid: fedora
+    size: 7361
+    checksum: sha256:6404b1028262aeaf3e083f08959969abea1301f7f5e8610492cf900b3d13d5db
+    name: basesystem
+    evr: 11-20.fc40
+    sourcerpm: basesystem-11-20.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/b/bash-5.2.26-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 1893870
+    checksum: sha256:156e073308cb28a5a699d6ffafc71cbd28487628fd05471e1978e4b9a5c7a802
+    name: bash
+    evr: 5.2.26-3.fc40
+    sourcerpm: bash-5.2.26-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/b/bzip2-libs-1.0.8-18.fc40.x86_64.rpm
+    repoid: fedora
+    size: 41839
+    checksum: sha256:68a43532d10187888788625d0b6c2224ba95804280eddf2636e5ef700607e7d0
+    name: bzip2-libs
+    evr: 1.0.8-18.fc40
+    sourcerpm: bzip2-1.0.8-18.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/c/ca-certificates-2023.2.62_v7.0.401-6.fc40.noarch.rpm
+    repoid: fedora
+    size: 882760
+    checksum: sha256:e61d6858790314f9d9ab539c5531d2b67ce763c9e5ac6c22dd76293fec12f3f5
+    name: ca-certificates
+    evr: 2023.2.62_v7.0.401-6.fc40
+    sourcerpm: ca-certificates-2023.2.62_v7.0.401-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/c/coreutils-9.4-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 1201536
+    checksum: sha256:49f9bf2af3af4c08a1a0b24be7628870a07e2e26d7da9a799a673b692cac8ce5
+    name: coreutils
+    evr: 9.4-6.fc40
+    sourcerpm: coreutils-9.4-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/c/coreutils-common-9.4-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 2256261
+    checksum: sha256:d68b539944a080cb738d21d85f79265707f6085e807b72fdebceefbc2b6db887
+    name: coreutils-common
+    evr: 9.4-6.fc40
+    sourcerpm: coreutils-9.4-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/c/cpio-2.15-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 299244
+    checksum: sha256:d941a78ffb6e2e0b4c24d0097d0351ced8796edde90208b4bddee459bce0a949
+    name: cpio
+    evr: 2.15-1.fc40
+    sourcerpm: cpio-2.15-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/c/cracklib-2.9.11-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 94719
+    checksum: sha256:ea1f43ef9a4b02a9c66726ee386f090145696fb93dff80d593ac82126f8037ec
+    name: cracklib
+    evr: 2.9.11-5.fc40
+    sourcerpm: cracklib-2.9.11-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/c/cracklib-dicts-2.9.11-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 3768626
+    checksum: sha256:fe24641e69545c428890a4b094f015c03f65a6c30c3db7bb0de7672bab66bfd6
+    name: cracklib-dicts
+    evr: 2.9.11-5.fc40
+    sourcerpm: cracklib-2.9.11-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/c/crypto-policies-20240201-2.git9f501f3.fc40.noarch.rpm
+    repoid: fedora
+    size: 102235
+    checksum: sha256:11d4b45c1001ccd523e0e95cc4b8f84bd332d2df42d08fcfa451288bcd074142
+    name: crypto-policies
+    evr: 20240201-2.git9f501f3.fc40
+    sourcerpm: crypto-policies-20240201-2.git9f501f3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/c/crypto-policies-scripts-20240201-2.git9f501f3.fc40.noarch.rpm
+    repoid: fedora
+    size: 120138
+    checksum: sha256:126f9f1aa7312ff6841b44bd8f5cdec46998d8a73f978aa50144f6fb492a1658
+    name: crypto-policies-scripts
+    evr: 20240201-2.git9f501f3.fc40
+    sourcerpm: crypto-policies-20240201-2.git9f501f3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/c/cryptsetup-libs-2.7.1-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 543060
+    checksum: sha256:1e22be97132c6dc572551dc758933420961054f8dd9d0c4ea161a305b4909e24
+    name: cryptsetup-libs
+    evr: 2.7.1-1.fc40
+    sourcerpm: cryptsetup-2.7.1-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/c/cyrus-sasl-lib-2.1.28-19.fc40.x86_64.rpm
+    repoid: fedora
+    size: 808234
+    checksum: sha256:0dff67dfeca59cb68cadafe8d9909b88dfaa2fc0a9a4426352f66a5fe351fbe3
+    name: cyrus-sasl-lib
+    evr: 2.1.28-19.fc40
+    sourcerpm: cyrus-sasl-2.1.28-19.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/d/dbus-1.14.10-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 8189
+    checksum: sha256:19197df26f76af5e78bd1e3ad2f777bea071eef6dfec1219f6b8ee3c80e10193
+    name: dbus
+    evr: 1:1.14.10-3.fc40
+    sourcerpm: dbus-1.14.10-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/d/dbus-broker-35-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 174884
+    checksum: sha256:830e4a79ec41c95350c42109df17ef8ee2c0314d501ffbd6610c556e1bc83a67
+    name: dbus-broker
+    evr: 35-4.fc40
+    sourcerpm: dbus-broker-35-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/d/dbus-common-1.14.10-3.fc40.noarch.rpm
+    repoid: fedora
+    size: 15135
+    checksum: sha256:81bade4072aca4f5d22be29a916d9d0cfc9262a6c5d92ddfe750f7b8bf03f7c9
+    name: dbus-common
+    evr: 1:1.14.10-3.fc40
+    sourcerpm: dbus-1.14.10-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/d/device-mapper-1.02.197-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 140555
+    checksum: sha256:d4fb93847a0e94d3bdbea203c1df0895e254089d825dfaf040b1aae3ae9547ff
+    name: device-mapper
+    evr: 1.02.197-1.fc40
+    sourcerpm: lvm2-2.03.23-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/d/device-mapper-libs-1.02.197-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 180268
+    checksum: sha256:c736bdca85feb3982cc8772058e95c7794d37503d5a26a2f84d4092bd5300d18
+    name: device-mapper-libs
+    evr: 1.02.197-1.fc40
+    sourcerpm: lvm2-2.03.23-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/d/diffutils-3.10-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 415288
+    checksum: sha256:6913a547250df04ec388b96b7512977a25ab2fca62ed4345c3a9fc8782ce659f
+    name: diffutils
+    evr: 3.10-5.fc40
+    sourcerpm: diffutils-3.10-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/d/dracut-059-22.fc40.x86_64.rpm
+    repoid: fedora
+    size: 443063
+    checksum: sha256:bc442b27e0ac6780be3c810bdac15f7e7598fadb93100f7f20abf3beed1a42bc
+    name: dracut
+    evr: 059-22.fc40
+    sourcerpm: dracut-059-22.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/e/elfutils-debuginfod-client-0.191-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 39390
+    checksum: sha256:877c66844c68044b2a29b5d7465eb97f429e9f38b56ebaa16d766c0979e93a80
+    name: elfutils-debuginfod-client
+    evr: 0.191-4.fc40
+    sourcerpm: elfutils-0.191-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/e/elfutils-default-yama-scope-0.191-4.fc40.noarch.rpm
+    repoid: fedora
+    size: 13861
+    checksum: sha256:3fbe1afd014386a436a25205d6727475a8f1107be734dd92fc40c3d5e0e5971d
+    name: elfutils-default-yama-scope
+    evr: 0.191-4.fc40
+    sourcerpm: elfutils-0.191-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/e/elfutils-libelf-0.191-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 214836
+    checksum: sha256:c1eca14924981b987f9b17c01a97511d641f49ac6b2b0f2d8e83563343932302
+    name: elfutils-libelf
+    evr: 0.191-4.fc40
+    sourcerpm: elfutils-0.191-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/e/elfutils-libs-0.191-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 266119
+    checksum: sha256:d7d1ed3fca0696b8c38effe21bc70c84a94cb66c0b59bb1980c0f455d23b7fec
+    name: elfutils-libs
+    evr: 0.191-4.fc40
+    sourcerpm: elfutils-0.191-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/e/expat-2.6.0-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 114892
+    checksum: sha256:a2343392214ecc7c65bf462337303479912820a89f34364babd525e10dded620
+    name: expat
+    evr: 2.6.0-1.fc40
+    sourcerpm: expat-2.6.0-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/f/fedora-gpg-keys-40-1.noarch.rpm
+    repoid: fedora
+    size: 135121
+    checksum: sha256:601842a8c2ed5c58481e7cf14c03d128dd7b8512304d144c37aee9c8a1c3330d
+    name: fedora-gpg-keys
+    evr: 40-1
+    sourcerpm: fedora-repos-40-1.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/f/fedora-release-40-38.noarch.rpm
+    repoid: fedora
+    size: 11025
+    checksum: sha256:7bf6ed214966a78958cec33522a5b4bb9cb8411bdead521eb0f2b782ff6bd76d
+    name: fedora-release
+    evr: 40-38
+    sourcerpm: fedora-release-40-38.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/f/fedora-release-common-40-38.noarch.rpm
+    repoid: fedora
+    size: 21764
+    checksum: sha256:8cb455a178b27cdce83cc7c043d7201d15c02407e77c2af2dfadca32c70b70c5
+    name: fedora-release-common
+    evr: 40-38
+    sourcerpm: fedora-release-40-38.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/f/fedora-release-identity-basic-40-38.noarch.rpm
+    repoid: fedora
+    size: 11828
+    checksum: sha256:23c163426b78236815d6c47f0369d700e82618b8b051740707e27e27e598ccaf
+    name: fedora-release-identity-basic
+    evr: 40-38
+    sourcerpm: fedora-release-40-38.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/f/fedora-repos-40-1.noarch.rpm
+    repoid: fedora
+    size: 9654
+    checksum: sha256:4eb9b6ecc46fb6c7592de7faabd9c460fa5b551a7074d5e5da49f69c5b9d0e09
+    name: fedora-repos
+    evr: 40-1
+    sourcerpm: fedora-repos-40-1.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/f/file-5.45-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 50146
+    checksum: sha256:a6f2098fc2ed16df92c9325bd7459cc41479e17306a4f9cddfd5df8a1b80d0f8
+    name: file
+    evr: 5.45-4.fc40
+    sourcerpm: file-5.45-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/f/file-libs-5.45-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 781027
+    checksum: sha256:f76684ee78408660db83ab9932978a1346b280f4210cd744524b00b2e5891fe1
+    name: file-libs
+    evr: 5.45-4.fc40
+    sourcerpm: file-5.45-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/f/filesystem-3.18-8.fc40.x86_64.rpm
+    repoid: fedora
+    size: 1139003
+    checksum: sha256:063af3db3808bea0d5c07dbb2d8369b275e1d05ad0850c80a8fec0413f47cd64
+    name: filesystem
+    evr: 3.18-8.fc40
+    sourcerpm: filesystem-3.18-8.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/f/findutils-4.9.0-8.fc40.x86_64.rpm
+    repoid: fedora
+    size: 503758
+    checksum: sha256:f17ca5526d2cf34b82916a0cd1afe73d68856fdb5b19754312f61512aef0a7c3
+    name: findutils
+    evr: 1:4.9.0-8.fc40
+    sourcerpm: findutils-4.9.0-8.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/f/fuse-libs-2.9.9-21.fc40.x86_64.rpm
+    repoid: fedora
+    size: 98753
+    checksum: sha256:f94315e447afb7442033b7b82e43a4ed62754f603afda53930280300855e46c7
+    name: fuse-libs
+    evr: 2.9.9-21.fc40
+    sourcerpm: fuse-2.9.9-21.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/gawk-5.3.0-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 1123490
+    checksum: sha256:6c80dfdaf7b27ea92c1276856b8b2ae5fde1ae5c391b773805be725515fdc1ac
+    name: gawk
+    evr: 5.3.0-3.fc40
+    sourcerpm: gawk-5.3.0-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/gawk-all-langpacks-5.3.0-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 284743
+    checksum: sha256:c4cc69bf3a2655b9ee9ac23492d377bac57811c5b4f81fbf43537520ee33c7af
+    name: gawk-all-langpacks
+    evr: 5.3.0-3.fc40
+    sourcerpm: gawk-5.3.0-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/gdbm-1.23-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 156173
+    checksum: sha256:21470eb4ec55006c9efeee84c97772462008fceda1ab332e58d2caddfdaa0d1e
+    name: gdbm
+    evr: 1:1.23-6.fc40
+    sourcerpm: gdbm-1.23-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/gdbm-libs-1.23-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 57515
+    checksum: sha256:93450209842a296ea4b295f6d86b69aa52dd8ec45b121ede0d5125aa49bad509
+    name: gdbm-libs
+    evr: 1:1.23-6.fc40
+    sourcerpm: gdbm-1.23-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/gettext-envsubst-0.22.5-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 38919
+    checksum: sha256:1af2b6d450ecc168e5604654dc83433bf0658bba5cacd55377400d7db7db650b
+    name: gettext-envsubst
+    evr: 0.22.5-2.fc40
+    sourcerpm: gettext-0.22.5-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/gettext-libs-0.22.5-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 680028
+    checksum: sha256:834c3441835069b61208792b9b9ae1ebfadadb9d2d211357d7f42838932b59a7
+    name: gettext-libs
+    evr: 0.22.5-2.fc40
+    sourcerpm: gettext-0.22.5-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/gettext-runtime-0.22.5-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 125543
+    checksum: sha256:1126bf8d28dff9f165865d83c239e6a2d3988fc935957b9b869d8ed7989a2ae9
+    name: gettext-runtime
+    evr: 0.22.5-2.fc40
+    sourcerpm: gettext-0.22.5-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/glibc-2.39-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 2342730
+    checksum: sha256:8cf203df214b24c9e4c866cad80ca18a7545c01a03038fc34b6f4b8c4b42c597
+    name: glibc
+    evr: 2.39-6.fc40
+    sourcerpm: glibc-2.39-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/glibc-common-2.39-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 393779
+    checksum: sha256:45fe79ffea9358fc7a4f233e2358b08678bdec476680d0655063b4a4058e8789
+    name: glibc-common
+    evr: 2.39-6.fc40
+    sourcerpm: glibc-2.39-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/glibc-gconv-extra-2.39-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 1752123
+    checksum: sha256:80539e1e40bad62b292bd05d4828874e8d8bd207fb0eab95730943d9437a26ca
+    name: glibc-gconv-extra
+    evr: 2.39-6.fc40
+    sourcerpm: glibc-2.39-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/glibc-minimal-langpack-2.39-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 101945
+    checksum: sha256:9982f68ddcc3e972a2f3f220f29d56b0e9dde0e409bdecfe0bc559fe39013dde
+    name: glibc-minimal-langpack
+    evr: 2.39-6.fc40
+    sourcerpm: glibc-2.39-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/gmp-6.2.1-8.fc40.x86_64.rpm
+    repoid: fedora
+    size: 320004
+    checksum: sha256:b054d6a9ee3477e935686b327aa47379bd1909eac4ce06c4c45dff1a201ecb49
+    name: gmp
+    evr: 1:6.2.1-8.fc40
+    sourcerpm: gmp-6.2.1-8.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/gpm-libs-1.20.7-46.fc40.x86_64.rpm
+    repoid: fedora
+    size: 20509
+    checksum: sha256:6d54af0fc5ae216eb97720415acda4245ebc6c021420a2892b58620b5b25ca38
+    name: gpm-libs
+    evr: 1.20.7-46.fc40
+    sourcerpm: gpm-1.20.7-46.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/grep-3.11-7.fc40.x86_64.rpm
+    repoid: fedora
+    size: 307454
+    checksum: sha256:8e2310f6cde324576e537749cf1d4fee8028edfc0c8df3070f147ee162b423ce
+    name: grep
+    evr: 3.11-7.fc40
+    sourcerpm: grep-3.11-7.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/grub2-common-2.06-119.fc40.noarch.rpm
+    repoid: fedora
+    size: 946375
+    checksum: sha256:150b8ffb1196d907b791f159f1034c1a96cbdb837ea0ad4390757c53d71f835c
+    name: grub2-common
+    evr: 1:2.06-119.fc40
+    sourcerpm: grub2-2.06-119.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/grub2-tools-2.06-119.fc40.x86_64.rpm
+    repoid: fedora
+    size: 1916531
+    checksum: sha256:24ab58338c5f0818212a14f82cc72d7b617a8b00808ba67fef863617fb57fa97
+    name: grub2-tools
+    evr: 1:2.06-119.fc40
+    sourcerpm: grub2-2.06-119.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/grub2-tools-minimal-2.06-119.fc40.x86_64.rpm
+    repoid: fedora
+    size: 632752
+    checksum: sha256:2e66f1bc8e6db20220db382f6af45a14398372e62900ea6219c846bd667d1407
+    name: grub2-tools-minimal
+    evr: 1:2.06-119.fc40
+    sourcerpm: grub2-2.06-119.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/grubby-8.40-75.fc40.x86_64.rpm
+    repoid: fedora
+    size: 26125
+    checksum: sha256:6a146fa9b154e67eb67eeb258df37814a863997c87171fdc2bd771e5a46b1cc4
+    name: grubby
+    evr: 8.40-75.fc40
+    sourcerpm: grubby-8.40-75.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/g/gzip-1.13-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 174719
+    checksum: sha256:6dcc2f8885135fc873c8ab94a6c7df05883060c5b25287956bebb3aa15a84e71
+    name: gzip
+    evr: 1.13-1.fc40
+    sourcerpm: gzip-1.13-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/j/json-c-0.17-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 45076
+    checksum: sha256:77e67991fcd4eea31f5b2844898a7854768548f0ab3abf7beaa91526afbf794b
+    name: json-c
+    evr: 0.17-3.fc40
+    sourcerpm: json-c-0.17-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/k/kbd-2.6.4-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 424829
+    checksum: sha256:c8e382e9de90e6946dd9bc2f706d6c307ea4ebba3eca91a283f1bb72b5b3ac9c
+    name: kbd
+    evr: 2.6.4-3.fc40
+    sourcerpm: kbd-2.6.4-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/k/kbd-legacy-2.6.4-3.fc40.noarch.rpm
+    repoid: fedora
+    size: 587892
+    checksum: sha256:4764830a5f91f668f6348539777ddcbc2aa5c21f433f2ef8fec4c385db26233b
+    name: kbd-legacy
+    evr: 2.6.4-3.fc40
+    sourcerpm: kbd-2.6.4-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/k/kbd-misc-2.6.4-3.fc40.noarch.rpm
+    repoid: fedora
+    size: 1733195
+    checksum: sha256:61b2303ebb8e37c240b7cf10a8649dbdd2ddefcb571a4e6ea688cc3ad9168970
+    name: kbd-misc
+    evr: 2.6.4-3.fc40
+    sourcerpm: kbd-2.6.4-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/k/keyutils-libs-1.6.3-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 32224
+    checksum: sha256:387706fa265213dc46e4f818f30333cc93f0c54539cbd2ec4db3bc854077307b
+    name: keyutils-libs
+    evr: 1.6.3-3.fc40
+    sourcerpm: keyutils-1.6.3-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/k/kmod-31-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 124973
+    checksum: sha256:370582ae0ed0dd607ec38e92eba4b124a4b2ec3835f3f4c1e5ad8255ee11d692
+    name: kmod
+    evr: 31-5.fc40
+    sourcerpm: kmod-31-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/k/kmod-libs-31-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 69796
+    checksum: sha256:53dd95341767a2ea40b68e4621a231883bd5b69426f0920ce1f1ca94e18765cb
+    name: kmod-libs
+    evr: 31-5.fc40
+    sourcerpm: kmod-31-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/k/kpartx-0.9.7-7.fc40.x86_64.rpm
+    repoid: fedora
+    size: 50084
+    checksum: sha256:9a03b21936528f6d08700757cb460c48e9557a71efaaa5e93b01b3f7614320f3
+    name: kpartx
+    evr: 0.9.7-7.fc40
+    sourcerpm: device-mapper-multipath-0.9.7-7.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/k/krb5-libs-1.21.2-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 774237
+    checksum: sha256:9fa9b3dc437120759814d4b33f05d84b4317f55dc310d8075f4555f341e25ff1
+    name: krb5-libs
+    evr: 1.21.2-5.fc40
+    sourcerpm: krb5-1.21.2-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libacl-2.3.2-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 25016
+    checksum: sha256:b753174804f57c3c6bae7afeb6145005498f18ae5d1aa0d340f9df5b8d71312f
+    name: libacl
+    evr: 2.3.2-1.fc40
+    sourcerpm: acl-2.3.2-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libattr-2.5.2-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 18430
+    checksum: sha256:504cff39c51a04c1d302096899c47dc34ac0eba47524c2fc94c27904149e72cf
+    name: libattr
+    evr: 2.5.2-3.fc40
+    sourcerpm: attr-2.5.2-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libb2-0.98.1-11.fc40.x86_64.rpm
+    repoid: fedora
+    size: 26081
+    checksum: sha256:649cceb60f2e284f8d5dadeec4af8e7035650fe0e5aa75c552354b3fa5708cfe
+    name: libb2
+    evr: 0.98.1-11.fc40
+    sourcerpm: libb2-0.98.1-11.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libblkid-2.40-0.9.rc1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 118589
+    checksum: sha256:f4278c28f2bb21b0c24a5975384a5ccfc0934504d8a7c036ca1346b7683e1b5c
+    name: libblkid
+    evr: 2.40-0.9.rc1.fc40
+    sourcerpm: util-linux-2.40-0.9.rc1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libbpf-1.2.0-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 170052
+    checksum: sha256:6aaea5de69154d81ef39d3faa72d42d04ae57fc5071492d6ccb9899ca43948fc
+    name: libbpf
+    evr: 2:1.2.0-3.fc40
+    sourcerpm: libbpf-1.2.0-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libbrotli-1.1.0-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 346553
+    checksum: sha256:97e9e5339bb0ca6ce3d0195c8ebe48384bcfc087ee6bc7a35b1d27d4de23fbfa
+    name: libbrotli
+    evr: 1.1.0-3.fc40
+    sourcerpm: brotli-1.1.0-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libcap-2.69-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 83934
+    checksum: sha256:ef836441d998bde4a116bdb9d169b35e345e955898cde86cda7d720cd74f4090
+    name: libcap
+    evr: 2.69-3.fc40
+    sourcerpm: libcap-2.69-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libcap-ng-0.8.4-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 33428
+    checksum: sha256:dc22477c3ac762f92ecc322af4f39fee2c5371bedc495ce242f9b94c590c580f
+    name: libcap-ng
+    evr: 0.8.4-4.fc40
+    sourcerpm: libcap-ng-0.8.4-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libcbor-0.11.0-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 34053
+    checksum: sha256:274fd72d27570f3fcc9f06efedd21ea7a71e0903c286222fdbbefd6b30b9a80c
+    name: libcbor
+    evr: 0.11.0-1.fc40
+    sourcerpm: libcbor-0.11.0-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libcom_err-1.47.0-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 25962
+    checksum: sha256:0d100701976c37fe94e904ed78437db7477ae1dc600ece07bea23fbbd968762c
+    name: libcom_err
+    evr: 1.47.0-5.fc40
+    sourcerpm: e2fsprogs-1.47.0-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libcurl-8.6.0-7.fc40.x86_64.rpm
+    repoid: fedora
+    size: 353494
+    checksum: sha256:9a307d1ababc6d21f64fce06981ad46b3b5250779200062b8ff9f1821cf77a07
+    name: libcurl
+    evr: 8.6.0-7.fc40
+    sourcerpm: curl-8.6.0-7.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libeconf-0.6.2-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 32676
+    checksum: sha256:05ad4ddff82db6a9c6cec0fc0188ae3a946c1387fbf69773eef9b9cd21c36251
+    name: libeconf
+    evr: 0.6.2-1.fc40
+    sourcerpm: libeconf-0.6.2-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libevent-2.1.12-12.fc40.x86_64.rpm
+    repoid: fedora
+    size: 263346
+    checksum: sha256:c4adcee5dd9e22ea50d6c318ac4936a8df708121741958ce5aa8f038c46c61a9
+    name: libevent
+    evr: 2.1.12-12.fc40
+    sourcerpm: libevent-2.1.12-12.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libfdisk-2.40-0.9.rc1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 163875
+    checksum: sha256:17f02ca51b90580887d739f52b995034e0929fc6bcd92be308554a2f5337bbe4
+    name: libfdisk
+    evr: 2.40-0.9.rc1.fc40
+    sourcerpm: util-linux-2.40-0.9.rc1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libffi-3.4.4-7.fc40.x86_64.rpm
+    repoid: fedora
+    size: 40311
+    checksum: sha256:25caa7ee56f6013369c2fac26afd3035a7d580af0b919621ba8d495d13a5af86
+    name: libffi
+    evr: 3.4.4-7.fc40
+    sourcerpm: libffi-3.4.4-7.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libfido2-1.14.0-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 99956
+    checksum: sha256:f9c5369b6d168a2b8e46159bc41ef0755ee1a8d12f4c6766fdfe23e827cf5cdf
+    name: libfido2
+    evr: 1.14.0-4.fc40
+    sourcerpm: libfido2-1.14.0-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libgcc-14.0.1-0.15.fc40.x86_64.rpm
+    repoid: fedora
+    size: 128845
+    checksum: sha256:8863e3c439d5d43b8039d8d9b6fddad802ffb4b6f2c9ea193e2d9359e822d428
+    name: libgcc
+    evr: 14.0.1-0.15.fc40
+    sourcerpm: gcc-14.0.1-0.15.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libgomp-14.0.1-0.15.fc40.x86_64.rpm
+    repoid: fedora
+    size: 354630
+    checksum: sha256:fbd4a44d78bdbace8a2e46ed6b034ab85514008390d932754cdd3f6a246a66de
+    name: libgomp
+    evr: 14.0.1-0.15.fc40
+    sourcerpm: gcc-14.0.1-0.15.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libidn2-2.3.7-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 121573
+    checksum: sha256:2fd2038b4a94eeede34e46ed0e035e619f77d0e412c70cf4e9bb836957e8f31b
+    name: libidn2
+    evr: 2.3.7-1.fc40
+    sourcerpm: libidn2-2.3.7-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libkcapi-1.4.0-10.fc40.x86_64.rpm
+    repoid: fedora
+    size: 46715
+    checksum: sha256:e6dd9a7c8c5e03f30363a1bd3abe97a33fed294c695a9d1029587635bdb9b04e
+    name: libkcapi
+    evr: 1.4.0-10.fc40
+    sourcerpm: libkcapi-1.4.0-10.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libkcapi-hmaccalc-1.4.0-10.fc40.x86_64.rpm
+    repoid: fedora
+    size: 24926
+    checksum: sha256:8692d0bfe4c5ed1fa4594dae4d020815217ed1999676cedbef58e6c9549d681d
+    name: libkcapi-hmaccalc
+    evr: 1.4.0-10.fc40
+    sourcerpm: libkcapi-1.4.0-10.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libmount-2.40-0.9.rc1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 158845
+    checksum: sha256:c5231753426984926daba70cc61d20e777048e91167f2e3c217e21e9205573a6
+    name: libmount
+    evr: 2.40-0.9.rc1.fc40
+    sourcerpm: util-linux-2.40-0.9.rc1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libnghttp2-1.59.0-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 77074
+    checksum: sha256:3a3a66eaa1aa2758d84ce2610607e949f8ee73699eb3252b0528a19dbd09a7af
+    name: libnghttp2
+    evr: 1.59.0-2.fc40
+    sourcerpm: nghttp2-1.59.0-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libnsl2-2.0.1-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 30279
+    checksum: sha256:fa6dccd7aee4a74a5cfa12c7927c7326485704ebe57c54774b0f157fda639360
+    name: libnsl2
+    evr: 2.0.1-1.fc40
+    sourcerpm: libnsl2-2.0.1-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libpsl-0.21.5-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 65431
+    checksum: sha256:bb9ceaba0d3283777777524e8c99b8eaa2155e9000d8e3ef5d0ece336f8c1392
+    name: libpsl
+    evr: 0.21.5-3.fc40
+    sourcerpm: libpsl-0.21.5-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libpwquality-1.4.5-9.fc40.x86_64.rpm
+    repoid: fedora
+    size: 122528
+    checksum: sha256:210e797a265da7111c1a59eca95f9e301ad05c5c8772aed54af9363e5684950b
+    name: libpwquality
+    evr: 1.4.5-9.fc40
+    sourcerpm: libpwquality-1.4.5-9.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libseccomp-2.5.3-8.fc40.x86_64.rpm
+    repoid: fedora
+    size: 71938
+    checksum: sha256:40e88dedc3fc64e70f0c2c16af598d9701c089cd205d5bf312517984bf0194fa
+    name: libseccomp
+    evr: 2.5.3-8.fc40
+    sourcerpm: libseccomp-2.5.3-8.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libselinux-3.6-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 89618
+    checksum: sha256:b67135643467acef3417d6f961ef3dc987ca726681a25026fce29cbd15fa76f9
+    name: libselinux
+    evr: 3.6-4.fc40
+    sourcerpm: libselinux-3.6-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libsemanage-3.6-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 119199
+    checksum: sha256:1313cb0d72005c8b469466a7ee12a7c30b7e283ed5ed0f601d2c911fa84d5137
+    name: libsemanage
+    evr: 3.6-3.fc40
+    sourcerpm: libsemanage-3.6-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libsepol-3.6-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 348269
+    checksum: sha256:2a84c1dcbf391374eb7f66f75a5ce62eadf11241f33d4df950a7bd94a9e0853e
+    name: libsepol
+    evr: 3.6-3.fc40
+    sourcerpm: libsepol-3.6-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libsmartcols-2.40-0.9.rc1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 85798
+    checksum: sha256:34111597814e385c8c1cdd48ff72c4ed64e7e6ed9bd6660bb2bfda6aebdb3200
+    name: libsmartcols
+    evr: 2.40-0.9.rc1.fc40
+    sourcerpm: util-linux-2.40-0.9.rc1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libsodium-1.0.19-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 178718
+    checksum: sha256:91d67f2a3be65b2904c432f4585189540978dcfb6ef994c2eaac5b7cfb4010a5
+    name: libsodium
+    evr: 1.0.19-4.fc40
+    sourcerpm: libsodium-1.0.19-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libssh-0.10.6-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 215663
+    checksum: sha256:45695cddc79eafe4c52c44d59d6a8a88850e4bf809fa50d19e56042f1a02f08f
+    name: libssh
+    evr: 0.10.6-5.fc40
+    sourcerpm: libssh-0.10.6-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libssh-config-0.10.6-5.fc40.noarch.rpm
+    repoid: fedora
+    size: 9246
+    checksum: sha256:241c73071a373732ec544dad6ba6f4fb054c1f2264d86085c322dd1c1089bbb1
+    name: libssh-config
+    evr: 0.10.6-5.fc40
+    sourcerpm: libssh-0.10.6-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libstdc++-14.0.1-0.15.fc40.x86_64.rpm
+    repoid: fedora
+    size: 904915
+    checksum: sha256:94f1daa2aff87dbe2116eeea5ecbb5f351dbceecb105e3f697585cd518af129c
+    name: libstdc++
+    evr: 14.0.1-0.15.fc40
+    sourcerpm: gcc-14.0.1-0.15.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libtasn1-4.19.0-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 75458
+    checksum: sha256:d92173d6fbfb7e2af3b35a8554229e247666e15dc5b36cba43b7bbfc4144b781
+    name: libtasn1
+    evr: 4.19.0-6.fc40
+    sourcerpm: libtasn1-4.19.0-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libtirpc-1.3.4-1.rc3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 94707
+    checksum: sha256:adc082c8d4af5cc81a9de428c39de59717177109aedb4b15888a8ca9d51167ab
+    name: libtirpc
+    evr: 1.3.4-1.rc3.fc40
+    sourcerpm: libtirpc-1.3.4-1.rc3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libtool-ltdl-2.4.7-10.fc40.x86_64.rpm
+    repoid: fedora
+    size: 37025
+    checksum: sha256:e5d150d23f95e4a23288b84145af442607a88bf457c0e04b325b1d1e8e708c2b
+    name: libtool-ltdl
+    evr: 2.4.7-10.fc40
+    sourcerpm: libtool-2.4.7-10.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libunistring-1.1-7.fc40.x86_64.rpm
+    repoid: fedora
+    size: 558548
+    checksum: sha256:58719c2f205b23598e31b72144ab55215947ad8fca96af46a641288692c159d2
+    name: libunistring
+    evr: 1.1-7.fc40
+    sourcerpm: libunistring-1.1-7.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libutempter-1.2.1-13.fc40.x86_64.rpm
+    repoid: fedora
+    size: 27038
+    checksum: sha256:0093a8d3f490fbbbc71b01e0c8f9b083040dbf7513be31a91a0769d846198c1b
+    name: libutempter
+    evr: 1.2.1-13.fc40
+    sourcerpm: libutempter-1.2.1-13.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libuuid-2.40-0.9.rc1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 29628
+    checksum: sha256:18ae5558dd719fcc92bd4d2c7c73c6a093af82a35c67444ccc9cdf4b3dce1824
+    name: libuuid
+    evr: 2.40-0.9.rc1.fc40
+    sourcerpm: util-linux-2.40-0.9.rc1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libverto-0.3.2-8.fc40.x86_64.rpm
+    repoid: fedora
+    size: 21032
+    checksum: sha256:fadf7dd93c5eee57ba78e0628bf041dbd2ea037ace52f0a5cbac55b363234d27
+    name: libverto
+    evr: 0.3.2-8.fc40
+    sourcerpm: libverto-0.3.2-8.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libxcrypt-4.4.36-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 120913
+    checksum: sha256:26c27a101cf40f84f313d81a28cbca9450e8d901e6fcd315ac6036895a369b92
+    name: libxcrypt
+    evr: 4.4.36-5.fc40
+    sourcerpm: libxcrypt-4.4.36-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libxkbcommon-1.6.0-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 144985
+    checksum: sha256:1f1d0c1e1132016735acc6fc3390102b35f9eb257244547c7b61c32a9c2314cc
+    name: libxkbcommon
+    evr: 1.6.0-2.fc40
+    sourcerpm: libxkbcommon-1.6.0-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libxml2-2.12.5-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 701947
+    checksum: sha256:4415ffd0c697d0c04adeafd035eccc113a736838e8ad82e857dc7fdd88acf2ec
+    name: libxml2
+    evr: 2.12.5-1.fc40
+    sourcerpm: libxml2-2.12.5-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/libzstd-1.5.5-5.fc40.x86_64.rpm
+    repoid: fedora
+    size: 313387
+    checksum: sha256:0dec4a5c3c4d2b759a808322598fbb8e3a55b7fbe371547faed8e25cb53e5e85
+    name: libzstd
+    evr: 1.5.5-5.fc40
+    sourcerpm: zstd-1.5.5-5.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/l/lz4-libs-1.9.4-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 68835
+    checksum: sha256:f5f022440c4340b5e7fb1c1dbc382e6b0fd57030b3ff056940f2bb3d254408ec
+    name: lz4-libs
+    evr: 1.9.4-6.fc40
+    sourcerpm: lz4-1.9.4-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/m/memstrack-0.2.5-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 50354
+    checksum: sha256:55d5c4384bdc13290a7824aa566d1d20bbbc99f5dde4e057bd12f4f47845e28b
+    name: memstrack
+    evr: 0.2.5-4.fc40
+    sourcerpm: memstrack-0.2.5-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/m/mkpasswd-5.5.20-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 26633
+    checksum: sha256:2030e8622b6f9ceb4b56f5c771ae7e4ccbff3d8bf563df5bf929725f4c4f18c9
+    name: mkpasswd
+    evr: 5.5.20-3.fc40
+    sourcerpm: whois-5.5.20-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/m/mpdecimal-2.5.1-9.fc40.x86_64.rpm
+    repoid: fedora
+    size: 90710
+    checksum: sha256:0a3a3fc2471d2d64cbc85f4b23c93620df6eeee814851a2b69fc5ddf75406b56
+    name: mpdecimal
+    evr: 2.5.1-9.fc40
+    sourcerpm: mpdecimal-2.5.1-9.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/m/mpfr-4.2.1-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 357416
+    checksum: sha256:ef6285ceb3baff0bef0e541094c04a899dda37c5961b053b58be2a4a9085302f
+    name: mpfr
+    evr: 4.2.1-3.fc40
+    sourcerpm: mpfr-4.2.1-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/ncurses-base-6.4-12.20240127.fc40.noarch.rpm
+    repoid: fedora
+    size: 90955
+    checksum: sha256:8a93376ce7423bd1a649a13f4b5105f270b4603f5cf3b3e230bdbda7f25dd788
+    name: ncurses-base
+    evr: 6.4-12.20240127.fc40
+    sourcerpm: ncurses-6.4-12.20240127.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/n/ncurses-libs-6.4-12.20240127.fc40.x86_64.rpm
+    repoid: fedora
+    size: 340442
+    checksum: sha256:a18edf32e89aefd453998d5d0ec3aa1ea193dac43f80b99db195abd7e8cf1a04
+    name: ncurses-libs
+    evr: 6.4-12.20240127.fc40
+    sourcerpm: ncurses-6.4-12.20240127.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/o/openldap-2.6.7-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 260454
+    checksum: sha256:b09089231ec94ee1b2dc26e34d8d7f19586d411bc40df7d0e495e559ac2d871a
+    name: openldap
+    evr: 2.6.7-1.fc40
+    sourcerpm: openldap-2.6.7-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/o/openssl-libs-3.2.1-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 2417793
+    checksum: sha256:eba1bd09317cc1f1f80e722e9a545dd404e1fad444045438f254e99cab4f1ed6
+    name: openssl-libs
+    evr: 1:3.2.1-2.fc40
+    sourcerpm: openssl-3.2.1-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/o/os-prober-1.81-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 51923
+    checksum: sha256:9f0336deb6f1b1524ec48d837622e7e2291995369b0356d7ad1e1d427f3b659a
+    name: os-prober
+    evr: 1.81-6.fc40
+    sourcerpm: os-prober-1.81-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/p11-kit-0.25.3-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 501506
+    checksum: sha256:2c8e47f98df74fe89b23f0a1347aba91383da06e0ae903949b015943da4e1b5b
+    name: p11-kit
+    evr: 0.25.3-4.fc40
+    sourcerpm: p11-kit-0.25.3-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/p11-kit-trust-0.25.3-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 134683
+    checksum: sha256:93159ba4fffd7c91bd28d3942564368c402dc65ee7998e81688f3d566fe7633f
+    name: p11-kit-trust
+    evr: 0.25.3-4.fc40
+    sourcerpm: p11-kit-0.25.3-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/pam-1.6.0-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 566068
+    checksum: sha256:9997fbbe5aca567c2d8afc5d745034bca0a4d8bda62ea7f88122e0dff2dfcdf8
+    name: pam
+    evr: 1.6.0-2.fc40
+    sourcerpm: pam-1.6.0-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/pam-libs-1.6.0-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 58509
+    checksum: sha256:8b233033e715d594326fe5ad84c06361928a787299c734206de7deccff7b3c10
+    name: pam-libs
+    evr: 1.6.0-2.fc40
+    sourcerpm: pam-1.6.0-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/pcre2-10.42-2.fc40.2.x86_64.rpm
+    repoid: fedora
+    size: 241431
+    checksum: sha256:8d36bcee4d3e39d5b8162ab8de347bb0f7d7b260a6b6c76bc4b577c5bff6ba5e
+    name: pcre2
+    evr: 10.42-2.fc40.2
+    sourcerpm: pcre2-10.42-2.fc40.2.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/pcre2-syntax-10.42-2.fc40.2.noarch.rpm
+    repoid: fedora
+    size: 146157
+    checksum: sha256:f2042a010126c04faea45cea4b62f8443e73f4a0a218858092e0fcf5ca7967fa
+    name: pcre2-syntax
+    evr: 10.42-2.fc40.2
+    sourcerpm: pcre2-10.42-2.fc40.2.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/pigz-2.8-4.fc40.x86_64.rpm
+    repoid: fedora
+    size: 97455
+    checksum: sha256:5443db8875acc0c1c436dbe1ed62b776543e049b8d9c7e33198379d367814093
+    name: pigz
+    evr: 2.8-4.fc40
+    sourcerpm: pigz-2.8-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/pkcs11-provider-0.3-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 122443
+    checksum: sha256:bbb4abafa9f7664e21350b56d49af2c928288e6d4dd68c304c4ab5d45b2c8ad7
+    name: pkcs11-provider
+    evr: 0.3-2.fc40
+    sourcerpm: pkcs11-provider-0.3-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/popt-1.19-6.fc40.x86_64.rpm
+    repoid: fedora
+    size: 68286
+    checksum: sha256:c03ba1c46e0e2dda36e654941f307aaa0d6574ee5143d6fec6e9af2bdf3252a2
+    name: popt
+    evr: 1.19-6.fc40
+    sourcerpm: popt-1.19-6.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/procps-ng-4.0.4-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 375969
+    checksum: sha256:8a414572157d7e450eddcdc909521e09373289cc7a48ebc15f7b0c9922c17262
+    name: procps-ng
+    evr: 4.0.4-3.fc40
+    sourcerpm: procps-ng-4.0.4-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/publicsuffix-list-dafsa-20240107-3.fc40.noarch.rpm
+    repoid: fedora
+    size: 59481
+    checksum: sha256:cca50802d4f75306bc37126feb92db79fed44dcdabf76c1556853334995b9d3b
+    name: publicsuffix-list-dafsa
+    evr: 20240107-3.fc40
+    sourcerpm: publicsuffix-list-20240107-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/python-pip-wheel-23.3.2-1.fc40.noarch.rpm
+    repoid: fedora
+    size: 1542083
+    checksum: sha256:1cfc81c8761cd0381cc5020a3686afec8350aadea01998518e8aa2407419fe9f
+    name: python-pip-wheel
+    evr: 23.3.2-1.fc40
+    sourcerpm: python-pip-23.3.2-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/python-unversioned-command-3.12.2-2.fc40.noarch.rpm
+    repoid: fedora
+    size: 10388
+    checksum: sha256:8f66b8557f9d77c4278ff259d8b338d32176f03844b6be46c576e471fdd977e8
+    name: python-unversioned-command
+    evr: 3.12.2-2.fc40
+    sourcerpm: python3.12-3.12.2-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/python3-3.12.2-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 27631
+    checksum: sha256:2970577819ed06391f4aaac7f64c584adf40df54a694b1f790a165604c13111e
+    name: python3
+    evr: 3.12.2-2.fc40
+    sourcerpm: python3.12-3.12.2-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/p/python3-libs-3.12.2-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 9592491
+    checksum: sha256:9646b473191a96ffa552126c993d5ccb6106e32d749c0ef24eed051690c5bae1
+    name: python3-libs
+    evr: 3.12.2-2.fc40
+    sourcerpm: python3.12-3.12.2-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/q/qrencode-libs-4.1.1-7.fc40.x86_64.rpm
+    repoid: fedora
+    size: 62820
+    checksum: sha256:93781052576cc40a2c203bbc1bf865189a11b2c82436e614da9811baedc082fc
+    name: qrencode-libs
+    evr: 4.1.1-7.fc40
+    sourcerpm: qrencode-4.1.1-7.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/r/readline-8.2-8.fc40.x86_64.rpm
+    repoid: fedora
+    size: 218384
+    checksum: sha256:dacd59edbe4744fd9f6823d672e01eff89f871e88537554f16c0a275a17d04e9
+    name: readline
+    evr: 8.2-8.fc40
+    sourcerpm: readline-8.2-8.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/s/sed-4.9-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 325866
+    checksum: sha256:6a21b2c132a54fd6d9acb846d0a96289ab739b745cdc4c2b31bdbf6b2434a1a7
+    name: sed
+    evr: 4.9-1.fc40
+    sourcerpm: sed-4.9-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/s/setup-2.14.5-2.fc40.noarch.rpm
+    repoid: fedora
+    size: 158449
+    checksum: sha256:89862f646cd64e81497f01a8b69ab30ac8968c47afef92a2c333608fdb90ccc1
+    name: setup
+    evr: 2.14.5-2.fc40
+    sourcerpm: setup-2.14.5-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/s/shadow-utils-4.15.1-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 1387490
+    checksum: sha256:9c2659b5afa71398278e3edb5d73038c46ccac1a5538d41d898210d43d90a566
+    name: shadow-utils
+    evr: 2:4.15.1-1.fc40
+    sourcerpm: shadow-utils-4.15.1-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/s/sqlite-libs-3.45.1-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 721998
+    checksum: sha256:a1e23ae521e93ab19d3df77889a6a418c3432025e4880cfd893e40f7165876a7
+    name: sqlite-libs
+    evr: 3.45.1-2.fc40
+    sourcerpm: sqlite-3.45.1-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/s/systemd-255.4-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 5172104
+    checksum: sha256:b4e8a591a6d1e84c81b303efa0daa825622b11cf077d0b5ac56b90cabc89411e
+    name: systemd
+    evr: 255.4-1.fc40
+    sourcerpm: systemd-255.4-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/s/systemd-libs-255.4-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 724663
+    checksum: sha256:93572fe7887cc435fcd9f1461b5790bdf55cdd39e88052c8aa7b2bdb02310e7d
+    name: systemd-libs
+    evr: 255.4-1.fc40
+    sourcerpm: systemd-255.4-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/s/systemd-networkd-255.4-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 691039
+    checksum: sha256:b3e3985fd801d2ed7e9d850f84640a31b150ac592f058371a9b981311a8dea03
+    name: systemd-networkd
+    evr: 255.4-1.fc40
+    sourcerpm: systemd-255.4-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/s/systemd-pam-255.4-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 396197
+    checksum: sha256:1cd1c14ee7a8167eefc68695d934157745566458b04acf592e9abdbc71d41c4c
+    name: systemd-pam
+    evr: 255.4-1.fc40
+    sourcerpm: systemd-255.4-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/s/systemd-resolved-255.4-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 306612
+    checksum: sha256:eb2bcc04a496f6da9ac05a8d196202e7b286468e7e3d51720deaae3b2ff1e3d2
+    name: systemd-resolved
+    evr: 255.4-1.fc40
+    sourcerpm: systemd-255.4-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/s/systemd-udev-255.4-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 2393914
+    checksum: sha256:982b51b9c74a62317ed22e6ec4bb984b6f2e4bb09f45e79fcbb3c4ad85b79eea
+    name: systemd-udev
+    evr: 255.4-1.fc40
+    sourcerpm: systemd-255.4-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/t/tpm2-tools-5.6-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 816642
+    checksum: sha256:fd73d025eaf403f26a057244ab88f93d1a7313558e1286fd7e97b48933979e64
+    name: tpm2-tools
+    evr: 5.6-2.fc40
+    sourcerpm: tpm2-tools-5.6-2.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/t/tpm2-tss-4.0.1-7.fc40.x86_64.rpm
+    repoid: fedora
+    size: 404897
+    checksum: sha256:1e9fc2aa3409ae5a811735373837abc1ebc1b24e193ed37a229657fd26ddafef
+    name: tpm2-tss
+    evr: 4.0.1-7.fc40
+    sourcerpm: tpm2-tss-4.0.1-7.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/t/tpm2-tss-fapi-4.0.1-7.fc40.x86_64.rpm
+    repoid: fedora
+    size: 324641
+    checksum: sha256:8ae765e633305db2c64f871ede5100b8798ca10cefc1097f991583beb8fe9504
+    name: tpm2-tss-fapi
+    evr: 4.0.1-7.fc40
+    sourcerpm: tpm2-tss-4.0.1-7.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/t/tzdata-2024a-4.fc40.noarch.rpm
+    repoid: fedora
+    size: 733338
+    checksum: sha256:b8467c7f6859629b614952020171eb1f17dd4bed9ffde198196a5d5470a57072
+    name: tzdata
+    evr: 2024a-4.fc40
+    sourcerpm: tzdata-2024a-4.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/u/util-linux-2.40-0.9.rc1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 1262016
+    checksum: sha256:c7a3db50a2a53a7f3be41050ccb7fd8592eaff49343a1346f49f73c8cc5adce9
+    name: util-linux
+    evr: 2.40-0.9.rc1.fc40
+    sourcerpm: util-linux-2.40-0.9.rc1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/u/util-linux-core-2.40-0.9.rc1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 527959
+    checksum: sha256:7ec1b5df780c5a30f8e901179480125a6ea87f1f7bad3b69da7f4b351b88c3dd
+    name: util-linux-core
+    evr: 2.40-0.9.rc1.fc40
+    sourcerpm: util-linux-2.40-0.9.rc1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-common-9.1.158-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 7949580
+    checksum: sha256:d7792ddb38887fae32d8d19e550023459b1dfa1c6b63056c9bc6299e7276fe50
+    name: vim-common
+    evr: 2:9.1.158-1.fc40
+    sourcerpm: vim-9.1.158-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-data-9.1.158-1.fc40.noarch.rpm
+    repoid: fedora
+    size: 23367
+    checksum: sha256:2d86baedd44f642f6a8f11ca8388829c69a0196ed66261df60dc8cb5b4c7f262
+    name: vim-data
+    evr: 2:9.1.158-1.fc40
+    sourcerpm: vim-9.1.158-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-enhanced-9.1.158-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 1959141
+    checksum: sha256:6190c8b23e55552f0fcf6c7be407957d54a1bf1f3e68a6b34371447873b6028c
+    name: vim-enhanced
+    evr: 2:9.1.158-1.fc40
+    sourcerpm: vim-9.1.158-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/v/vim-filesystem-9.1.158-1.fc40.noarch.rpm
+    repoid: fedora
+    size: 17912
+    checksum: sha256:52e0f1c9bf41c22e52ca9c443debaf185b51645a2487ad6f35f17be8a49400aa
+    name: vim-filesystem
+    evr: 2:9.1.158-1.fc40
+    sourcerpm: vim-9.1.158-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/which-2.21-41.fc40.x86_64.rpm
+    repoid: fedora
+    size: 42442
+    checksum: sha256:cf0306ceed1c6b3be39060d85f16b1953b464d3a625488b170d3b7aadf600645
+    name: which
+    evr: 2.21-41.fc40
+    sourcerpm: which-2.21-41.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/w/whois-nls-5.5.20-3.fc40.noarch.rpm
+    repoid: fedora
+    size: 39030
+    checksum: sha256:4ede95a2fa3bc0ae617c8bf3a375b800163d58733b4829b15d9f038505d79fee
+    name: whois-nls
+    evr: 5.5.20-3.fc40
+    sourcerpm: whois-5.5.20-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/x/xkeyboard-config-2.41-1.fc40.noarch.rpm
+    repoid: fedora
+    size: 999363
+    checksum: sha256:e2195010e857f56b19246f8b821f9391922880b7691b3728a413f540edc890a6
+    name: xkeyboard-config
+    evr: 2.41-1.fc40
+    sourcerpm: xkeyboard-config-2.41-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/x/xxd-9.1.158-1.fc40.x86_64.rpm
+    repoid: fedora
+    size: 37596
+    checksum: sha256:06a340440747103054a6ae76479f446aafe78677a9339552c5774cb927fa2e9d
+    name: xxd
+    evr: 2:9.1.158-1.fc40
+    sourcerpm: vim-9.1.158-1.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/x/xz-5.4.6-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 570753
+    checksum: sha256:ee599a1c4d7ee635e54ec137af4dded83f433b9c8a5976f75ecdcd000b5246e3
+    name: xz
+    evr: 1:5.4.6-3.fc40
+    sourcerpm: xz-5.4.6-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/x/xz-libs-5.4.6-3.fc40.x86_64.rpm
+    repoid: fedora
+    size: 112689
+    checksum: sha256:b6ee44b3d7e494b0364f26b7d0b169a8092180af787423cd5e8a47dc0f738a66
+    name: xz-libs
+    evr: 1:5.4.6-3.fc40
+    sourcerpm: xz-5.4.6-3.fc40.src.rpm
+  - url: https://muug.ca/mirror/fedora/linux/releases/40/Everything/x86_64/os/Packages/z/zlib-ng-compat-2.1.6-2.fc40.x86_64.rpm
+    repoid: fedora
+    size: 78914
+    checksum: sha256:02ed309305b380ed7ac270798e820e963dff51ba51200da30e6188193598178c
+    name: zlib-ng-compat
+    evr: 2.1.6-2.fc40
+    sourcerpm: zlib-ng-2.1.6-2.fc40.src.rpm
+  source: []
+  module_metadata: []
