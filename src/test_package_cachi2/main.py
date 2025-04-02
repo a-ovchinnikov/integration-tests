@@ -6,6 +6,7 @@ A simple script for checking pre-installed packages provided by Cachi2
 # import io
 # import requests
 # from dockerfile_parse import DockerfileParser
+from cryptography.fernet import Fernet
 
 
 if __name__ == '__main__':
